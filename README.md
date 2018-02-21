@@ -1,2 +1,2 @@
 # IknowSomeone
-WP based webapp template w/Twilio-generated SMS
+WP based webapp w/Twilio-generated SMS
